@@ -140,5 +140,3 @@ Potential improvements could include:
 This project is open source. Feel free to modify and distribute according to your needs.
 
 ---
-
-**Enter the Demon House at your own risk...** 👻
